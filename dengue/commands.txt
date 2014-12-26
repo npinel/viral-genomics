@@ -1,0 +1,5 @@
+open screens:
+ns3 # running clustalo
+ns5 # running clustalo
+ns3_clustalw2
+ns5_clustalw2

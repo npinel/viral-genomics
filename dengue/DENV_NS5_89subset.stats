@@ -1,0 +1,22 @@
+logging job: DENV_NS5_89subset.faa on Thu Feb  2 21:32:10 2012
+clustal version: 2.1
+seq type: protein
+numseqs: 356
+seqlen longest: 900
+seqlen shortest: 889
+seqlen avg: 898.82
+seqlen std-dev: 1.46
+seqlen median: 899.00
+md5: disabled
+aln len: 901
+aln pw-id highest: 1.00
+aln pw-id lowest: 0.73
+aln pw-id avg: 0.83
+aln pw-id std-dev: 0.09
+aln pw-id median: 0.79
+cmdline non-default arg: -INFILE=DENV_NS5_89subset.faa
+cmdline non-default arg: -ALIGN
+cmdline non-default arg: -PIM
+cmdline non-default arg: -TYPE=PROTEIN
+cmdline non-default arg: -OUTFILE=DENV_NS5_89subset.aln
+cmdline non-default arg: -STATS=DENV_NS5_89subset.stats

@@ -1,0 +1,22 @@
+logging job: DENV3_NS5.faa on Thu Feb  2 17:24:49 2012
+clustal version: 2.1
+seq type: protein
+numseqs: 654
+seqlen longest: 900
+seqlen shortest: 898
+seqlen avg: 899.00
+seqlen std-dev: 0.06
+seqlen median: 899.00
+md5: disabled
+aln len: 900
+aln pw-id highest: 1.00
+aln pw-id lowest: 0.96
+aln pw-id avg: 0.99
+aln pw-id std-dev: 0.01
+aln pw-id median: 0.99
+cmdline non-default arg: -INFILE=DENV3_NS5.faa
+cmdline non-default arg: -ALIGN
+cmdline non-default arg: -PIM
+cmdline non-default arg: -TYPE=PROTEIN
+cmdline non-default arg: -OUTFILE=DENV3_NS5.aln
+cmdline non-default arg: -STATS=DENV3_NS5.stats
